@@ -17,5 +17,9 @@ public class Main {
         for(int x= 10; x <= 60; x += 2){
             System.out.println(x);
         }
+        
+         for(int x= 10; x <= 60; x += 2){
+            System.out.println(x);
+        }
     }
 }
